@@ -1,0 +1,5 @@
+# Configuration Files
+config.py
+
+# Compiled Python Files
+*.pyc
